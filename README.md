@@ -52,7 +52,7 @@ These repositories are **documentation-first showcases**. Production source is p
 
 | Repository | Focus | Stack |
 |---|---|---|
-| **[Streaming & Mobile Ecosystem](https://github.com/ginedy-mcintosh/Streaming-Mobile-Ecosystem)** | Cross-platform apps shipped to 6 storefronts, shared media API, platform review workflows | SceneGraph · Swift · Kotlin · Tizen · FastAPI |
+| **[Streaming & Mobile Ecosystem](https://github.com/ginedy-mcintosh/Streaming-Mobile-Ecosystem)** | Cross-platform apps shipped to 6 storefronts, shared media API, platform review workflows | Swift · Dart/Flutter · SceneGraph · Tizen · FastAPI |
 | **[MediosPlano-CAD-Engine](https://github.com/ginedy-mcintosh/MediosPlano-CAD-Engine)** | Parametric CAD engine: transcribed plans → 10-sheet permit sets + reconciled material takeoff | Python · ezdxf · Shapely · FastAPI |
 | **[Medioscore-AI-PBX](https://github.com/ginedy-mcintosh/Medioscore-AI-PBX)** | Multi-tenant Asterisk PBX with real-time AI receptionist | Asterisk 20 · PHP-FPM · AGI · MariaDB |
 | **[MediosBilling-CRM](https://github.com/ginedy-mcintosh/MediosBilling-CRM)** | Secure multi-tenant billing/CRM, server-authoritative money math | Laravel 12 · MySQL · Stripe |
