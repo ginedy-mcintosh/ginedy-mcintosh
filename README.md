@@ -39,7 +39,8 @@ I own the full lifecycle — architecture, code, Linux infrastructure, deploymen
 | Domain | What I ship |
 |---|---|
 | **Multi-tenant SaaS** | Laravel 12 / PHP 8.3 platforms with strict tenant isolation, encrypted credential vaults, audit trails, and Stripe billing under idempotent webhook handling |
-| **Real-time telephony** | Asterisk 20 PBX with AGI-driven AI voice answering, per-tenant dialplans, holiday/schedule routing, and sub-second turnaround budgets |
+| **Streaming & audio infrastructure** | Complete media stacks built from bare Linux — ingest, transcoding, LL-HLS packaging with multi-rendition ABR ladders, origin/edge delivery, TLS, DNS and monitoring. Built the 24/7 multi-channel origin behind a broadcast network serving the US and Latin America |
+| **VoIP & call recording** | Asterisk 20 PBX with AGI-driven AI voice answering, per-tenant dialplans, holiday/schedule routing, sub-second turnaround budgets, plus server-side call recording and archival — storage, retention and retrieval on my own infrastructure |
 | **AI integration** | LLM-backed lead scoring, quote generation, and voice agents — with provider fallback chains, structured-output validation, and cost ceilings |
 | **Cross-platform apps** | Published and maintained consumer streaming apps on Apple TV/iOS, Android, Roku (SceneGraph/BrightScript), Fire TV, and Samsung Tizen |
 | **Linux infrastructure** | Bare-metal and VPS fleet on Ubuntu — systemd services and timers, logrotate, nginx, DNS authority, TLS, SSH-based CI/CD |
@@ -92,7 +93,7 @@ Each showcase repo below includes a **`Code Review Notes`** section documenting 
 
 - Architecting a shared multi-company API backbone so one CRM core serves telephony, hosting, and services products instead of four parallel billing systems.
 - Expanding real-time AI voice handling on the PBX side — barge-in, intent capture, and safe hand-off to a human queue.
-- Available for **contract work in AI code evaluation, technical writing, and complex problem solving.**
+- Available for **contract work in AI code evaluation, technical writing, and complex problem solving** — and for building **streaming or audio server architecture from zero to production**, including VoIP telephony and call-recording systems.
 
 ---
 
